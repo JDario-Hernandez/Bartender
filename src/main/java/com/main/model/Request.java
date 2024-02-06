@@ -3,6 +3,7 @@ package com.main.model;
 public class Request {
 	// Constructor, getters y setters
 
+	
 	public Request(int Q, int id) {
 		this.id = id;
 		this.Q = Q;
